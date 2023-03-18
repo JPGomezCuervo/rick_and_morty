@@ -1,0 +1,19 @@
+
+.Search_Bar{
+    height: 2rem;
+    border: 1.5rem;
+    border-radius: 20px 0px 0px 20px ;
+    width: 25rem;
+    text-indent: 1rem;
+}
+.Search_Button{
+    
+    height: 2rem;;
+    border: 0;
+    border-radius: 00px 20px 20px 0px ;
+    transition: .256s;
+}
+.Search_Button:hover{
+    cursor: pointer;
+    background-color: #c8c4c4;
+}
