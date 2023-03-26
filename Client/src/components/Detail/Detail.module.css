@@ -1,0 +1,45 @@
+
+
+.Detail_Container{
+    background-color: aliceblue;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    margin-top: 2rem;
+    background-color: aliceblue;
+    border-radius: 1.5em;
+    box-shadow: 10px 10px 5px -3px rgba(0,0,0,0.5);
+    border: 1rem solid #332792;
+    padding: 1rem;
+    
+    
+}
+
+.Main_info{
+    padding-right: 2rem;
+    
+}
+.Attribute{
+    display: inline;
+}
+.Attributes{
+    display: flex;
+   flex-flow: column;
+   justify-content: space-around;
+   align-items: flex-start;
+}
+p{
+    font-weight: bolder;
+    margin-left: 1rem;
+}
+img{
+
+     border-radius: 2rem;
+     padding: .5em;
+     height: 14em;
+     transition: .6s;  
+}
+h2{
+    text-decoration-line: underline ;
+}

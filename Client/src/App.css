@@ -1,0 +1,13 @@
+:root{
+  background-image: url('https://wallpapercave.com/wp/wp3277694.png');
+  background-size: 360px;
+  overflow-x: hidden;
+}
+.App {
+  text-align: center;
+}
+
+.Cards_Container{
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,43 @@
+.Nav{
+    background-color: #332792;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    padding: .5rem;
+    width: 100%;
+  
+  }
+  .SearchBar_Container{
+    justify-content: center;
+    margin-left: auto;
+    margin-right: 23.5%;
+  }
+  
+  .Nav_Options{
+    display: flex;
+    width: max-content;
+    
+    
+  
+  }
+  .Nav_Option{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 1rem;
+    color: white;
+    background-color: #332792;
+    border: 1px solid white;
+    padding: .4rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    text-decoration: none;
+    border-radius: 1.5rem;
+    transition:.256s;
+  }
+  .Nav_Option:hover{
+    background-color: #897bf5;
+  }
+  .Extra{
+    margin-right:.5rem;
+    margin-left: .5rem;
+  }
